@@ -1,0 +1,3 @@
+General:
+	Adaptive: It stops algorithm if array is sorted (Inorder to optimize).
+	Stable: It wont change positions in case of identical numbers/values.
